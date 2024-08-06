@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "bot_test-1000163978-eWG",
-    "name" : "bot_test-1000163978-eWG",
+    "id" : "medsi_test-1000164354-hvE",
+    "name" : "medsi_test-1000164354-hvE",
     "folder" : "/platform"
   },
   "settings" : {
@@ -1899,7 +1899,8 @@
       "name" : "doc_specialties",
       "entity" : "doc_specialties",
       "required" : false,
-      "prompts" : [ ]
+      "prompts" : [ ],
+      "array" : false
     } ],
     "priority" : 0
   }, {
@@ -2730,7 +2731,8 @@
       "name" : "doc_specialties",
       "entity" : "doc_specialties",
       "required" : false,
-      "prompts" : [ "Укажите специализацию врача" ]
+      "prompts" : [ "Укажите специализацию врача" ],
+      "array" : false
     } ],
     "priority" : 0
   }, {

@@ -110,4 +110,3 @@ theme: /
               //   $temp.name = res.name
               //  })
         a: {{$request.accountId}}
-        
